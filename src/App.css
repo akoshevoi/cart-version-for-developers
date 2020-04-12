@@ -1,0 +1,15 @@
+.cart {
+	margin: 50px auto;
+	text-align: center;
+}
+
+table {
+	margin: 20px auto;
+	border-collapse: collapse
+}
+
+td {
+	text-align: center;
+	padding: 15px;
+	border: 1px solid #ccc;
+}

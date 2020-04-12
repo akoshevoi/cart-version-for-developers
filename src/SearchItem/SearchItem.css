@@ -1,0 +1,12 @@
+.search-label {
+    font-size: 18px;
+}
+
+.search-input {
+    width: 232px;
+    height: 20px;
+    margin-left: 15px;
+    padding: 5px;
+    border: 1px solid #999;
+    border-radius: 5px;
+}

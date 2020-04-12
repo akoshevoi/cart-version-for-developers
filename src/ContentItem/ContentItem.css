@@ -1,0 +1,50 @@
+.content-qty {
+    display: inline-block;
+    width: 40px;
+    padding: 10px;
+    font-size: 20px;
+}
+
+.btn-content {
+    width: 42px;
+    height: 42px;
+    background-color: #fff;
+    border: 2px solid #000;
+    font-size: 20px;
+    line-height: 1;
+    padding: 5px 10px;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+.btn-content-minus {
+    font-weight: 700;
+    border-color: #eb5858;
+    color: #eb5858;
+}
+
+.btn-content-minus:hover {
+    background-color: #eb5858;
+    color: #fff;
+}
+
+.btn-content-plus {
+    border-color: #1ca01c;
+    color: #1ca01c;
+}
+
+.btn-content-plus:hover {
+    background-color: #1ca01c;
+    color: #fff;
+}
+
+.btn-content-delete {
+    margin-left: 15px;
+    border-color: #211f92;
+    color: #211f92;
+}
+
+.btn-content-delete:hover {
+    background-color: #211f92;
+    color: #fff;
+}
